@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Z_Power.label>稳定的恒星能源提取站</Z_Power.label>
+  <Z_Power.description>稳定的电力供应</Z_Power.description>
+  <Z_Power_Blueprint.label>稳定的恒星能源提取站 (blueprint)</Z_Power_Blueprint.label>
+  <Z_Power_Frame.label>稳定的恒星能源提取站 (building)</Z_Power_Frame.label>
+  <Z_Power_Frame.description>稳定的电力供应</Z_Power_Frame.description>
+
+  <Z_Battery.label>Z_高功率电池</Z_Battery.label>
+  <Z_Battery.description>稳定的高蓄能电池，维护方式同原版</Z_Battery.description>
+  <Z_Battery_Blueprint.label>Z_高功率电池 (blueprint)</Z_Battery_Blueprint.label>
+  <Z_Battery_Blueprint_Install.label>Z_高功率电池 (blueprint)</Z_Battery_Blueprint_Install.label>
+  <Z_Battery_Frame.label>Z_高功率电池 (building)</Z_Battery_Frame.label>
+  <Z_Battery_Frame.description>稳定的高蓄能电池，维护方式同原版</Z_Battery_Frame.description>
+
+  <Z_PowerMiNi.label>反物质能源提取站</Z_PowerMiNi.label>
+  <Z_PowerMiNi.description>稳定便携的电力供应</Z_PowerMiNi.description>
+  <Z_PowerMiNi_Blueprint.label>反物质能源提取站 (blueprint)</Z_PowerMiNi_Blueprint.label>
+  <Z_PowerMiNi_Frame.label>反物质能源提取站 (building)</Z_PowerMiNi_Frame.label>
+  <Z_PowerMiNi_Frame.description>稳定便携的电力供应</Z_PowerMiNi_Frame.description>
+
+
+</LanguageData>

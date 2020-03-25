@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- door -->
+  <Zhaos_CompDoor.label>Z_Mirror alloy door</Zhaos_CompDoor.label>
+  <Zhaos_CompDoor.description>A door made by mirror fiber, with multithread structure.It has extremely high durability</Zhaos_CompDoor.description>
+  <Zhaos_CompDoor_Blueprint.label>Z_Mirror alloy door (blueprint)</Zhaos_CompDoor_Blueprint.label>
+  <Zhaos_CompDoor_Frame.label>Z_Mirror alloy door (building)</Zhaos_CompDoor_Frame.label>
+  <Zhaos_CompDoor_Frame.description>A door made by mirror fiber, with multithread structure.It has extremely high durability</Zhaos_CompDoor_Frame.description>
+  <!-- wall -->
+  <Zhaos_CompWall.label>Z_Mirror alloy wall</Zhaos_CompWall.label>
+  <Zhaos_CompWall.description>A wall made by mirror fiber, with multithread structure.It has extremely high durability</Zhaos_CompWall.description>
+  <Zhaos_CompWall_Blueprint.label>Z_Mirror alloy wall (blueprint)</Zhaos_CompWall_Blueprint.label>
+  <Zhaos_CompWall_Frame.label>Z_Mirror alloy wall (building)</Zhaos_CompWall_Frame.label>
+  <Zhaos_CompWall_Frame.description>A wall made by mirror fiber, with multithread structure.It has extremely high durability</Zhaos_CompWall_Frame.description>
+  <!-- light -->
+  <Z_ArcLamp.label>Z_flame arc lamp</Z_ArcLamp.label>
+  <Z_ArcLamp.description>Use special device to absorb heat to generate light, can make plant grow. That runs on no power.</Z_ArcLamp.description>
+  <Z_ArcLamp_Blueprint.label>Z_flame arc lamp (blueprint)</Z_ArcLamp_Blueprint.label>
+  <Z_ArcLamp_Blueprint_Install.label>Z_flame arc lamp (blueprint)</Z_ArcLamp_Blueprint_Install.label>
+  <Z_ArcLamp_Frame.label>Z_flame arc lamp (building)</Z_ArcLamp_Frame.label>
+  <Z_ArcLamp_Frame.description>Use special device to absorb heat to generate light, can make plant grow. That runs on no power.</Z_ArcLamp_Frame.description>
+</LanguageData>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_BulletZhaosB.label>Z高速磁轨炮弹</Bullet_BulletZhaosB.label>
+  <Bullet_BulletZhaosA.label>动能束</Bullet_BulletZhaosA.label>
+  <Bullet_BulletZhaosC.label>小型磁轨冲击弹</Bullet_BulletZhaosC.label>
+  <Bullet_BulletZhaosD.label>Z_能量冲击</Bullet_BulletZhaosD.label>
+  <Bullet_BulletZhaosE.label>Z_蓄能爆弹</Bullet_BulletZhaosE.label>
+  <Bullet_BulletZhaosF.label>Z_电荷钨芯弹丸</Bullet_BulletZhaosF.label>
+  <!-- ^^^^^^^Bullet -->
+  <Z_Rifle.label>Z_ kinetic weapon</Z_Rifle.label>
+  <Z_Rifle.description>Please be careful of ballistic injury!
+high precision
+high-speed kinetic energy weapon
+Death.这把枪将会杀死你眼前的一切
+将会杀死眼前的一切
+高伤害，小心误伤！</Z_Rifle.description>
+  <Z_Rifle02.label>Z_Pulse Rifle</Z_Rifle02.label>
+  <Z_Rifle02.description>Pulse Rifle
+Damage:45
+Quantity per shot:3</Z_Rifle02.description>
+  <Z_Rifle03.label>Z_Pulse submachine gun</Z_Rifle03.label>
+  <Z_Rifle03.description>submachine gun 
+high precision
+Damage:15
+Quantity per shot:3
+
+略正义的小型防身武器，电磁轨道冲锋枪。
+15连发，高精确，每发伤害3</Z_Rifle03.description>
+  <Z_Rifle04.label>Z_Shockwave rifle</Z_Rifle04.label>
+  <Z_Rifle04.description>Precise energy release
+DamageTag:Bomb(radius:3)</Z_Rifle04.description>
+  <Z_Rifle05.label>Z_Shockwave detonating gun</Z_Rifle05.label>
+  <Z_Rifle05.description>It looks like a nuclear launcher!
+DamageTag:Bomb(radius:9)</Z_Rifle05.description>
+  <Z_Rifle06.label>Z_Charge rifle EXII</Z_Rifle06.label>
+  <Z_Rifle06.description>Damage:10
+Quantity per shot:6</Z_Rifle06.description>
+</LanguageData>

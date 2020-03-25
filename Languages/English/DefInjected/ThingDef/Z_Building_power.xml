@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Z_Power.label>[Z_] Star power station</Z_Power.label>
+  <Z_Power.description>Stable stellar energy extraction stations.Stable electricity supply</Z_Power.description>
+  <Z_Power_Blueprint.label>Star power station (blueprint)</Z_Power_Blueprint.label>
+  <Z_Power_Frame.label>Star power station (building)</Z_Power_Frame.label>
+  <Z_Power_Frame.description>Stable stellar energy extraction stations.Stable electricity supply</Z_Power_Frame.description>
+  <Z_Battery.label>Z_Energy storage core</Z_Battery.label>
+  <Z_Battery.description>SSSSuper! Large - sized battery, internal is a dangerous quantum state, but has a high - strength shell</Z_Battery.description>
+  <Z_Battery_Blueprint.label>Z_Energy storage core (blueprint)</Z_Battery_Blueprint.label>
+  <Z_Battery_Blueprint_Install.label>Z_Energy storage core (blueprint)</Z_Battery_Blueprint_Install.label>
+  <Z_Battery_Frame.label>Z_Energy storage core (building)</Z_Battery_Frame.label>
+  <Z_Battery_Frame.description>SSSSuper! Large - sized battery, internal is a dangerous quantum state, but has a high - strength shell</Z_Battery_Frame.description>
+  <Z_PowerMiNi.label>[Z_MINI] A star power station</Z_PowerMiNi.label>
+  <Z_PowerMiNi.description>Stable stellar energy extraction stations.Stable electricity supply</Z_PowerMiNi.description>
+  <Z_PowerMiNi_Blueprint.label>[Mini]Star power station (blueprint)</Z_PowerMiNi_Blueprint.label>
+  <Z_PowerMiNi_Frame.label>[Mini]Star power station (building)</Z_PowerMiNi_Frame.label>
+  <Z_PowerMiNi_Frame.description>Stable stellar energy extraction stations.Stable electricity supply</Z_PowerMiNi_Frame.description>
+</LanguageData>

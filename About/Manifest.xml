@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>PersonalMod</identifier>
+  <version>1.0.0.0</version>
+  <dependencies />
+  <incompatibleWith />
+  <loadBefore />
+  <loadAfter />
+  <manifestUri>https://raw.githubusercontent.com/emipa606/PersonalMod/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/emipa606/PersonalMod/releases</downloadUri>
+</Manifest>
+
