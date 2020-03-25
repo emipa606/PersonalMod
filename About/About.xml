@@ -5,7 +5,6 @@
 	<author>Mlie</author>
 	<url>https://github.com/emipa606/PersonalMod</url>
 	<supportedVersions>
-		<li>1.0</li>
 		<li>1.1</li>
 	</supportedVersions>
 	<modDependencies />
@@ -20,6 +19,8 @@ https://discord.gg/SuhwVpM
 
 Non-steam version:
 https://github.com/emipa606/PersonalMod
+
+Works okay except for errors when the turrets kills pawns or enemies cannot find a spot outside of turrets range.
 	
 --- Original Description ---
 My personal MOD
