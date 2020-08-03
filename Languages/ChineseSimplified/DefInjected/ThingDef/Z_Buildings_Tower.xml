@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Z_TowerSSS.label>Z_暴风_蜂巢式磁轨炮台</Z_TowerSSS.label>
   <Z_TowerSSS.description>Z_送眼前的一切敌人去见上帝。精确且致命
 level:SSS</Z_TowerSSS.description>
@@ -9,12 +8,9 @@ level:SSS</Z_TowerSSS.description>
   <Z_TowerSSS_Frame.label>Z_暴风_蜂巢式磁轨炮台 (building)</Z_TowerSSS_Frame.label>
   <Z_TowerSSS_Frame.description>Z_送眼前的一切敌人去见上帝。精确且致命
 level:SSS</Z_TowerSSS_Frame.description>
-
   <Z_TowerBase1.label>Z_四联链式磁轨炮</Z_TowerBase1.label>
   <Z_TowerBase1.description>Z_四联链式磁轨炮</Z_TowerBase1.description>
-
   <Bullet_Z_TurretgunA.label>Z_磁轨炮集束</Bullet_Z_TurretgunA.label>
-
   <Z_TowerA.label>Z_微风_小型蜂巢式磁轨炮台</Z_TowerA.label>
   <Z_TowerA.description>Z_防御型平台，顶级射速。
 低伤害但同样致命
@@ -25,11 +21,7 @@ level:A</Z_TowerA.description>
   <Z_TowerA_Frame.description>Z_防御型平台，顶级射速。
 低伤害但同样致命
 level:A</Z_TowerA_Frame.description>
-
   <Z_TowerBase2.label>Z_小型四联链式磁轨炮</Z_TowerBase2.label>
   <Z_TowerBase2.description>Z_小型四联链式磁轨炮</Z_TowerBase2.description>
-
   <Bullet_Z_TurretgunB.label>Z_微风磁轨炮集束</Bullet_Z_TurretgunB.label>
-
-
 </LanguageData>

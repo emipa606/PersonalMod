@@ -59,7 +59,6 @@ level:SSS.</description>
       <turretBurstCooldownTime>0</turretBurstCooldownTime>
     </building>
   </ThingDef>
-  
   <ThingDef ParentName="BaseBullet">
     <defName>Bullet_Z_TurretgunA</defName>
     <label>Z_磁轨炮集束</label>
@@ -73,7 +72,6 @@ level:SSS.</description>
       <speed>320</speed>
     </projectile>
   </ThingDef>
-  
   <ThingDef ParentName="BaseWeaponTurret">
     <defName>Z_TowerBase1A</defName>
     <label>Z_四联链式磁轨炮</label>
@@ -109,7 +107,6 @@ level:SSS.</description>
       </li>
     </verbs>
   </ThingDef>
-  
   <!--===============================================================================================================================================================================-->
   <ThingDef ParentName="BuildingBase">
     <defName>Z_TowerA</defName>
@@ -171,7 +168,6 @@ level:A.</description>
       <turretBurstCooldownTime>0</turretBurstCooldownTime>
     </building>
   </ThingDef>
-  
   <ThingDef ParentName="BaseBullet">
     <defName>Bullet_Z_TurretgunB</defName>
     <label>Z_微风磁轨炮集束</label>
@@ -185,7 +181,6 @@ level:A.</description>
       <speed>500</speed>
     </projectile>
   </ThingDef>
-  
   <ThingDef ParentName="BaseWeaponTurret">
     <defName>Z_TowerBase2A</defName>
     <label>Z_小型四联链式磁轨炮</label>

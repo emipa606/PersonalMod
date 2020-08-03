@@ -31,7 +31,8 @@
     <tickerType>Normal</tickerType>
     <description>稳定的电力供应.</description>
     <size>(2,2)</size>
-    <building></building>
+    <building>
+    </building>
     <costList>
       <Steel>100</Steel>
       <ComponentIndustrial>5</ComponentIndustrial>
@@ -94,7 +95,8 @@
     </statBases>
     <description>稳定的高蓄能电池，维护方式同原版.</description>
     <size>(1,2)</size>
-    <building></building>
+    <building>
+    </building>
     <costList>
       <ComponentIndustrial>2</ComponentIndustrial>
     </costList>
@@ -143,7 +145,8 @@
     <tickerType>Normal</tickerType>
     <description>稳定便携的电力供应.</description>
     <size>(1,1)</size>
-    <building></building>
+    <building>
+    </building>
     <costList>
       <Steel>100</Steel>
       <ComponentIndustrial>5</ComponentIndustrial>

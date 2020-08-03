@@ -1,18 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Z_Heater.label>Z_加热器ex</Z_Heater.label>
   <Z_Heater.description>一个改造过的加热器。可以自动开关以达到设定的目标温度。</Z_Heater.description>
   <Z_Heater_Blueprint.label>Z_加热器ex (blueprint)</Z_Heater_Blueprint.label>
   <Z_Heater_Blueprint_Install.label>Z_加热器ex (blueprint)</Z_Heater_Blueprint_Install.label>
   <Z_Heater_Frame.label>Z_加热器ex (building)</Z_Heater_Frame.label>
   <Z_Heater_Frame.description>一个改造过的加热器。可以自动开关以达到设定的目标温度。</Z_Heater_Frame.description>
-
   <CoolerP.label>Z_工业空调ex</CoolerP.label>
   <CoolerP.description>一个经过精心改造的控温装置，可用干中央空调或者制造冷库，不可燃</CoolerP.description>
   <CoolerP_Blueprint.label>Z_工业空调ex (blueprint)</CoolerP_Blueprint.label>
   <CoolerP_Frame.label>Z_工业空调ex (building)</CoolerP_Frame.label>
   <CoolerP_Frame.description>一个经过精心改造的控温装置，可用干中央空调或者制造冷库，不可燃</CoolerP_Frame.description>
-
-
 </LanguageData>

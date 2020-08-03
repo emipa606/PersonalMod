@@ -1,32 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- door -->
-
   <Zhaos_CompDoor.label>Z_复合门</Zhaos_CompDoor.label>
   <Zhaos_CompDoor.description>A door made by quantum alloy, with multithread structure it can significantly reduce damage from impact power and energy pulse.</Zhaos_CompDoor.description>
   <Zhaos_CompDoor_Blueprint.label>Z_复合门 (blueprint)</Zhaos_CompDoor_Blueprint.label>
   <Zhaos_CompDoor_Frame.label>Z_复合门 (building)</Zhaos_CompDoor_Frame.label>
   <Zhaos_CompDoor_Frame.description>A door made by quantum alloy, with multithread structure it can significantly reduce damage from impact power and energy pulse.</Zhaos_CompDoor_Frame.description>
-
-
   <!-- wall -->
-
   <Zhaos_CompWall.label>Z_复合墙</Zhaos_CompWall.label>
   <Zhaos_CompWall.description>A wall made by quantum alloy, with multithread structure it can significantly reduce damage from impact power and energy pulse.</Zhaos_CompWall.description>
   <Zhaos_CompWall_Blueprint.label>Z_复合墙 (blueprint)</Zhaos_CompWall_Blueprint.label>
   <Zhaos_CompWall_Frame.label>Z_复合墙 (building)</Zhaos_CompWall_Frame.label>
   <Zhaos_CompWall_Frame.description>A wall made by quantum alloy, with multithread structure it can significantly reduce damage from impact power and energy pulse.</Zhaos_CompWall_Frame.description>
-
-
   <!-- light -->
-
   <Z_ArcLamp.label>Z_弧光灯</Z_ArcLamp.label>
   <Z_ArcLamp.description>私用版，通过特制的装置吸收周围环境的热能来发光，可以让植物生长。</Z_ArcLamp.description>
   <Z_ArcLamp_Blueprint.label>Z_弧光灯 (blueprint)</Z_ArcLamp_Blueprint.label>
   <Z_ArcLamp_Blueprint_Install.label>Z_弧光灯 (blueprint)</Z_ArcLamp_Blueprint_Install.label>
   <Z_ArcLamp_Frame.label>Z_弧光灯 (building)</Z_ArcLamp_Frame.label>
   <Z_ArcLamp_Frame.description>私用版，通过特制的装置吸收周围环境的热能来发光，可以让植物生长。</Z_ArcLamp_Frame.description>
-
-
 </LanguageData>

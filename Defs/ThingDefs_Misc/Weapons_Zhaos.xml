@@ -248,7 +248,6 @@
       <MoveSpeed>1.0</MoveSpeed>
     </equippedStatOffsets>
   </ThingDef>
-  
   <ThingDef ParentName="BaseMakeableGun_Zhaos">
     <defName>Z_Rifle04A</defName>
     <label>Z_冲击步枪</label>
@@ -291,7 +290,6 @@
       <li>ZhaosRifle</li>
     </weaponTags>
   </ThingDef>
-  
   <ThingDef ParentName="BaseMakeableGun_Zhaos">
     <defName>Z_Rifle05A</defName>
     <label>Z_蓄能炮</label>

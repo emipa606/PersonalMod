@@ -1,15 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>斯坦石 personal MOD (Continued)</name>
-  	<packageId>Mlie.PersonalMod</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/PersonalMod</url>
-	<supportedVersions>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of 斯坦石s mod for RimWorld 1.1
+  <name>??? personal MOD (Continued)</name>
+  <packageId>Mlie.PersonalMod</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/PersonalMod</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of ???s mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1128356018
 
 [img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
@@ -26,7 +27,7 @@ Works okay except for errors when the turrets kills pawns or enemies cannot find
 My personal MOD
 Super cheat building
 
-介绍：
+??:
 -3GUN.2RPG,unbalanced
 -2turret.Power consumption is zero
 -Shield belt.Extremely high shields.(You can have a gun at the same time)
@@ -35,7 +36,7 @@ Super cheat building
 -Stellar power station.There are two sizes (Size: 1x1. 3x3.)
 -A battery with a huge capacity, and armor that covers everything at full resistance.
 -A low-key inner lining that can make you invulnerable.And it will help you avoid the effects of natural temperature.
--A melee weapon named "镜面杀戮".It's destructive.
+-A melee weapon named "????".It's destructive.
 -
 
 -----
@@ -43,9 +44,9 @@ Use carefully
 -----
 
 
-这是一个纯娱乐的MOD！ Just for fun！
-这是一个纯娱乐的MOD！ Just for fun！
-这是一个纯娱乐的MOD！ Just for fun！
+????????MOD! Just for fun!
+????????MOD! Just for fun!
+????????MOD! Just for fun!
 
 
 Update:
@@ -56,7 +57,7 @@ Update:
 
 -09 09 2017 : Fixed the Apparel Tags.
 
--09 12 2017 : Added a new melee weapon named “镜面杀戮” .
+-09 12 2017 : Added a new melee weapon named �????� .
 Added a new fabrics.
 
 -09 13 2017 : Added a new metal.

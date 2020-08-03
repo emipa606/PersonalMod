@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef Name="ApparelBase_Zhaos" Abstract="True">
     <thingClass>Apparel</thingClass>
@@ -48,7 +48,6 @@
       <unfinishedThingDef>UnfinishedApparel</unfinishedThingDef>
     </recipeMaker>
   </ThingDef>
-  
   <ThingDef ParentName="ApparelMakeableBase_Zhaos">
     <defName>Apparel_Zhaos</defName>
     <label>Z_防护内衬.</label>
