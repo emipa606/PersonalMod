@@ -1,17 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <ZhiWu_Zhaos.label>Z_Mirror fiber fabric</ZhiWu_Zhaos.label>
   <ZhiWu_Zhaos.description>A cloth made of fibres made from strong forces
 强相互作用力产生的织物材料</ZhiWu_Zhaos.description>
   <ZhiWu_Zhaos.stuffProps.stuffAdjective>Z_Mirror fiber fabric</ZhiWu_Zhaos.stuffProps.stuffAdjective>
-
   <Z_StanStoneA.label>Z_Mirror fiber alloy</Z_StanStoneA.label>
   <Z_StanStoneA.description>Strong interaction alloy
 强相互作用力产生的金属材料
 [Metal]
 Specular material produced by strong interaction force</Z_StanStoneA.description>
   <Z_StanStoneA.stuffProps.stuffAdjective>Z_Mirror fiber alloy</Z_StanStoneA.stuffProps.stuffAdjective>
-
-
 </LanguageData>

@@ -1,13 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Z_Heater.label>Z_heater ex</Z_Heater.label>
   <Z_Heater.description>A modified efficient heater with very low power consumption</Z_Heater.description>
-
   <CoolerP.label>Z_cooler ex</CoolerP.label>
   <CoolerP.description>A modified efficient cooler with very low power consumption.</CoolerP.description>
-
-
   <!--<Z_Heater_Blueprint.label>Z_heater ex (blueprint)</Z_Heater_Blueprint.label>-->
   <!--<Z_Heater_Blueprint_Install.label>Z_heater ex (blueprint)</Z_Heater_Blueprint_Install.label>-->
   <!--<Z_Heater_Frame.label>Z_heater ex (building)</Z_Heater_Frame.label>-->
@@ -15,5 +11,4 @@
   <!--<CoolerP_Blueprint.label>Z_cooler ex (blueprint)</CoolerP_Blueprint.label>-->
   <!--<CoolerP_Frame.label>Z_cooler ex (building)</CoolerP_Frame.label>-->
   <!--<CoolerP_Frame.description>A modified efficient cooler with very low power consumption.</CoolerP_Frame.description>-->
-
 </LanguageData>
