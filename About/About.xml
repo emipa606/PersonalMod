@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>??? personal MOD (Continued)</name>
   <packageId>Mlie.PersonalMod</packageId>
@@ -11,22 +11,26 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of 斯坦石s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1128356018
 
 Works okay except for errors when the turrets kills pawns or enemies cannot find a spot outside of turrets range.
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/PersonalMod][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 Adapt to A18 version
 
@@ -44,7 +48,7 @@ Super cheat building
 -Stellar power station.There are two sizes (Size: 1x1. 3x3.)
 -A battery with a huge capacity, and armor that covers everything at full resistance. 
 -A low-key inner lining that can make you invulnerable.And it will help you avoid the effects of natural temperature.
--A melee weapon named &quot;镜面杀戮&quot;.It&apos;s destructive.
+-A melee weapon named "镜面杀戮".It's destructive.
 -[spoiler] Well, I just want to draw some interesting equipment for fun	[/spoiler]
 
 ----- [h1] Use carefully	[/h1] -----
@@ -75,7 +79,7 @@ Super cheat building
  -11 24 2017: Adapt to A18 version.
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -86,4 +90,3 @@ Super cheat building
 [/list]
 </description>
 </ModMetaData>
-
