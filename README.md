@@ -1,25 +1,16 @@
 # PersonalMod
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of 斯坦石s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1128356018
 
 Works okay except for errors when the turrets kills pawns or enemies cannot find a spot outside of turrets range.
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/PersonalMod]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 Adapt to A18 version
@@ -40,7 +31,7 @@ Super cheat building
 -Stellar power station.There are two sizes (Size: 1x1. 3x3.)
 -A battery with a huge capacity, and armor that covers everything at full resistance. 
 -A low-key inner lining that can make you invulnerable.And it will help you avoid the effects of natural temperature.
--A melee weapon named &quot;镜面杀戮&quot;.It&apos;s destructive.
+-A melee weapon named "镜面杀戮".It's destructive.
 -[spoiler] Well, I just want to draw some interesting equipment for fun	[/spoiler]
 
 ----- #  Use carefully	
@@ -76,7 +67,7 @@ Super cheat building
  -11 24 2017: Adapt to A18 version.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -86,6 +77,7 @@ Super cheat building
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 

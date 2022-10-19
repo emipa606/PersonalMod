@@ -15,7 +15,7 @@ level:SSS</Z_TowerSSS.description>
 The fastest shooting frequency
 Damage(DPH):2
 level:A</Z_TowerA.description>
-  <Bullet_Z_TurretgunB.label>Z_[Mini]Magnetic track gun cluster</Bullet_Z_TurretgunB.label>
+  <Bullet_Z_TurretgunB.label>Z_Mini Magnetic track gun cluster</Bullet_Z_TurretgunB.label>
   <Z_TowerBase2A.label>Z_小型四联链式磁轨炮</Z_TowerBase2A.label>
   <Z_TowerBase2A.description>Z_小型四联链式磁轨炮.</Z_TowerBase2A.description>
   <!--<Z_TowerSSS_Blueprint.label>Z_Storm_turret (blueprint)</Z_TowerSSS_Blueprint.label>-->
