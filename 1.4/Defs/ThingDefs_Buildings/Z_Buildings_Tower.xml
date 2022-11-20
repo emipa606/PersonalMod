@@ -14,13 +14,14 @@
     </graphicData>
     <uiIconPath>Things/Building/Turret/Tower_Base1_UI</uiIconPath>
     <minifiedDef>MinifiedThing</minifiedDef>
+    <drawerType>MapMeshAndRealTime</drawerType>
     <thingCategories>
       <li>BuildingsFurniture</li>
     </thingCategories>
     <altitudeLayer>Building</altitudeLayer>
     <stealable>false</stealable>
     <statBases>
-      <MaxHitPoints>9000000000</MaxHitPoints>
+      <MaxHitPoints>147483647</MaxHitPoints>
       <Flammability>0</Flammability>
       <WorkToBuild>3000</WorkToBuild>
       <Mass>20</Mass>
@@ -122,13 +123,14 @@ level:SSS.</description>
     </graphicData>
     <uiIconPath>Things/Building/Turret/Tower_Base2_UI</uiIconPath>
     <minifiedDef>MinifiedThing</minifiedDef>
+    <drawerType>MapMeshAndRealTime</drawerType>
     <thingCategories>
       <li>BuildingsFurniture</li>
     </thingCategories>
     <altitudeLayer>Building</altitudeLayer>
     <stealable>false</stealable>
     <statBases>
-      <MaxHitPoints>9000000000</MaxHitPoints>
+      <MaxHitPoints>147483647</MaxHitPoints>
       <Flammability>0</Flammability>
       <WorkToBuild>3000</WorkToBuild>
       <Mass>20</Mass>
