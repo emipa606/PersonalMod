@@ -33,10 +33,13 @@
       </recipeUsers>
     </recipeMaker>
     <thingCategories>
-      <li>Apparel</li>
+      <li>ApparelUtility</li>
     </thingCategories>
     <apparel>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
       <careIfWornByCorpse>false</careIfWornByCorpse>
+      <careIfDamaged>false</careIfDamaged>
+      <wearPerDay>0</wearPerDay>
       <bodyPartGroups>
         <li>Waist</li>
       </bodyPartGroups>
@@ -56,5 +59,9 @@
       </options>
     </colorGenerator>
     <generateAllowChance>0.00</generateAllowChance>
+    <allowedArchonexusCount>1</allowedArchonexusCount>
+    <tradeTags>
+      <li>Armor</li>
+    </tradeTags>
   </ThingDef>
 </Defs>
