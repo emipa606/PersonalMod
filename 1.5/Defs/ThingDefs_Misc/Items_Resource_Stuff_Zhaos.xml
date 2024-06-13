@@ -117,6 +117,7 @@
         <Comfort>9</Comfort>
         <ImmunityGainSpeedFactor>5.2</ImmunityGainSpeedFactor>
         <MedicalTendQualityOffset>6</MedicalTendQualityOffset>
+        <Flammability>0</Flammability>
       </statFactors>
       <statOffsets>
         <Beauty>1000000</Beauty>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Z_Heater.label>Z_加热器ex</Z_Heater.label>
   <Z_Heater.description>一个改造过的加热器。可以自动开关以达到设定的目标温度。</Z_Heater.description>

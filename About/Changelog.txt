@@ -1,5 +1,8 @@
 # Changelog for PersonalMod
 
+1.5.1 - Added flammability zero on things built with stuff from the mod
+
+
 1.5.0 - Mod updated for 1.5 and passed autotests
 
 
