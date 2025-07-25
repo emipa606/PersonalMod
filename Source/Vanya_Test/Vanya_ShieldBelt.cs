@@ -52,7 +52,7 @@ public class Vanya_ShieldBelt : Apparel
 
     public float Energy => energy;
 
-    public ShieldState ShieldState
+    private ShieldState ShieldState
     {
         get
         {
@@ -100,7 +100,7 @@ public class Vanya_ShieldBelt : Apparel
         return EnergyMax * ApparelScorePerEnergyMax;
     }
 
-    public override void Tick()
+    protected override void Tick()
     {
         base.Tick();
         if (Wearer == null)
@@ -155,7 +155,7 @@ public class Vanya_ShieldBelt : Apparel
             }
             else
             {
-                AbsorbedDamage(dinfo);
+                absorbedDamage(dinfo);
             }
 
             result = true;
@@ -168,12 +168,12 @@ public class Vanya_ShieldBelt : Apparel
         return result;
     }
 
-    public void KeepDisplaying()
+    private void KeepDisplaying()
     {
         lastKeepDisplayTick = Find.TickManager.TicksGame;
     }
 
-    private void AbsorbedDamage(DamageInfo dinfo)
+    private void absorbedDamage(DamageInfo dinfo)
     {
         SoundDefOf.EnergyShield_AbsorbDamage.PlayOneShot(new TargetInfo(Wearer.Position, Wearer.Map));
         impactAngleVect = Vector3Utility.HorizontalVectorFromAngle(dinfo.Angle);
@@ -183,7 +183,7 @@ public class Vanya_ShieldBelt : Apparel
         var num2 = (int)num;
         for (var i = 0; i < num2; i++)
         {
-            FleckMaker.ThrowDustPuff(vector, Wearer.Map, Rand.Range(0.8f, 1.2f));
+            FleckMaker.ThrowDustPuff(vector, Wearer.Map, Rand.Range(0.8f, MinDrawSize));
         }
 
         lastAbsorbDamageTick = Find.TickManager.TicksGame;
@@ -199,7 +199,7 @@ public class Vanya_ShieldBelt : Apparel
         {
             var vector = Wearer.TrueCenter() + (Vector3Utility.HorizontalVectorFromAngle(Rand.Range(0, 360)) *
                                                 Rand.Range(0.3f, 0.6f));
-            FleckMaker.ThrowDustPuff(vector, Wearer.Map, Rand.Range(0.8f, 1.2f));
+            FleckMaker.ThrowDustPuff(vector, Wearer.Map, Rand.Range(0.8f, MinDrawSize));
         }
 
         energy = 0f;
@@ -226,13 +226,13 @@ public class Vanya_ShieldBelt : Apparel
             return;
         }
 
-        var num = Mathf.Lerp(1.2f, 1.55f, energy);
+        var num = Mathf.Lerp(MinDrawSize, 1.55f, energy);
         var vector = Wearer.Drawer.DrawPos;
         vector.y = AltitudeLayer.Blueprint.AltitudeFor();
         var num2 = Find.TickManager.TicksGame - lastAbsorbDamageTick;
-        if (num2 < 8)
+        if (num2 < JitterDurationTicks)
         {
-            var num3 = (8 - num2) / 8f * 0.05f;
+            var num3 = (JitterDurationTicks - num2) / 8f * MaxDamagedJitterDist;
             vector += impactAngleVect * num3;
             num -= num3;
         }

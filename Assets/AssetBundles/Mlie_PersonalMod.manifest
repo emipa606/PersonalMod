@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 1766417948
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6823d5ee2e784f5089739a72ea6a7892
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6823d5ee2e784f5089739a72ea6a7892
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Projectile/Bullet_Z01.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Items/ResourceZhaos/ClothZhaos.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Wendu/Z_Cooler_north.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1_Hulk_north.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Wendu/Z_Cooler_east.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Linked/ZCompWallz.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Door/ZCompDoor_Mover_m.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Items/GunsZhaos/Z_BigGunMiniB.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Projectile/Bullet_Z04.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1_Male_south.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Items/WeaponMeleeZhaos/Z_SwordA_Zhaos_m.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Items/GunsZhaos/Z_BigGunB.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1_Male_east.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Turret/Tower_Base1.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Items/GunsZhaos/Z_BigGunMini.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1_Female_north.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1_Female_south.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Door/ZCompDoor_MenuIcon_m.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Turret/Base_BaseN.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Wendu/Z_Cooler_south.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Linked/ZCompWallIco.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1_Fat_east.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1_Thin_north.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Projectile/Bullet_Z06.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Projectile/Bullet_Tower01.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1_Thin_east.png
+- Assets/Data/Mlie.PersonalMod/Textures/Vanya_Shield/Vanya_Shield.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Items/GunsZhaos/Z_BigGunMiniC.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1_Male_north.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1_Fat_north.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Items/ResourceZhaos/Z_StanStoneA.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Door/ZCompDoor_Mover.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Items/WeaponMeleeZhaos/Z_SwordA_Zhaos.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1_Fat_south.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Door/ZCompDoor_MenuIcon.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1_Female_east.png
+- Assets/Data/Mlie.PersonalMod/Textures/Z_Shield/Z_Shield.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Items/GunsZhaos/Z_BigGunC.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Turret/Base_Base1.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Power/Battery.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1_Hulk_south.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Turret/Tower_Base1_UI.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Wendu/Z_Heater.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Projectile/Bullet_Z05.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Projectile/Bullet_Z02.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1_Hulk_east.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Projectile/Bullet_Tower02.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Linked/ZCompWall.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Power/PowerStationMiNi.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Turret/Base_Base2.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1_Thin_south.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Items/GunsZhaos/Z_BigGun.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Turret/Tower_Base2_UI.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Power/PowerStation.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Light/Z_ArcLamp.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Building/Turret/Tower_Base2.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Clothes/ZhaosC1/ZhaosC1.png
+- Assets/Data/Mlie.PersonalMod/Textures/Things/Projectile/Bullet_Z03.png
+Dependencies: []

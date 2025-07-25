@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Z_工业空调ex -->
+  <CoolerP.label>Z_工业空调ex</CoolerP.label>
+  <!-- EN: 一个经过精心改造的控温装置，可用干中央空调或者制造冷库，不可燃. -->
+  <CoolerP.description>一个经过精心改造的控温装置，可用干中央空调或者制造冷库，不可燃.</CoolerP.description>
+  <!-- EN: Z_加热器ex -->
+  <Z_Heater.label>Z_加热器ex</Z_Heater.label>
+  <!-- EN: 一个改造过的加热器。可以自动开关以达到设定的目标温度。. -->
+  <Z_Heater.description>一个改造过的加热器。可以自动开关以达到设定的目标温度。.</Z_Heater.description>
+</LanguageData>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make Z_protective lining -->
+  <Make_Apparel_Zhaos.label>make Z_protective lining</Make_Apparel_Zhaos.label>
+  <!-- EN: Make a Z_protective lining. -->
+  <Make_Apparel_Zhaos.description>Make a Z_protective lining.</Make_Apparel_Zhaos.description>
+  <!-- EN: Making Z_protective lining. -->
+  <Make_Apparel_Zhaos.jobString>Making Z_protective lining.</Make_Apparel_Zhaos.jobString>
+  <!-- EN: make Z_Heavy chains -->
+  <Make_Apparel_ZhaosDebuff.label>make Z_Heavy chains</Make_Apparel_ZhaosDebuff.label>
+  <!-- EN: Make a Z_Heavy chains. -->
+  <Make_Apparel_ZhaosDebuff.description>Make a Z_Heavy chains.</Make_Apparel_ZhaosDebuff.description>
+  <!-- EN: Making Z_Heavy chains. -->
+  <Make_Apparel_ZhaosDebuff.jobString>Making Z_Heavy chains.</Make_Apparel_ZhaosDebuff.jobString>
+  <!-- EN: make Z_速射动能标枪 -->
+  <Make_Z_Rifle01A.label>make Z_速射动能标枪</Make_Z_Rifle01A.label>
+  <!-- EN: Make a Z_速射动能标枪. -->
+  <Make_Z_Rifle01A.description>Make a Z_速射动能标枪.</Make_Z_Rifle01A.description>
+  <!-- EN: Making Z_速射动能标枪. -->
+  <Make_Z_Rifle01A.jobString>Making Z_速射动能标枪.</Make_Z_Rifle01A.jobString>
+  <!-- EN: make Z_磁轨步枪 -->
+  <Make_Z_Rifle02A.label>make Z_磁轨步枪</Make_Z_Rifle02A.label>
+  <!-- EN: Make a Z_磁轨步枪. -->
+  <Make_Z_Rifle02A.description>Make a Z_磁轨步枪.</Make_Z_Rifle02A.description>
+  <!-- EN: Making Z_磁轨步枪. -->
+  <Make_Z_Rifle02A.jobString>Making Z_磁轨步枪.</Make_Z_Rifle02A.jobString>
+  <!-- EN: make Z_电磁冲锋枪 -->
+  <Make_Z_Rifle03A.label>make Z_电磁冲锋枪</Make_Z_Rifle03A.label>
+  <!-- EN: Make a Z_电磁冲锋枪. -->
+  <Make_Z_Rifle03A.description>Make a Z_电磁冲锋枪.</Make_Z_Rifle03A.description>
+  <!-- EN: Making Z_电磁冲锋枪. -->
+  <Make_Z_Rifle03A.jobString>Making Z_电磁冲锋枪.</Make_Z_Rifle03A.jobString>
+  <!-- EN: make Z_冲击步枪 -->
+  <Make_Z_Rifle04A.label>make Z_冲击步枪</Make_Z_Rifle04A.label>
+  <!-- EN: Make a Z_冲击步枪. -->
+  <Make_Z_Rifle04A.description>Make a Z_冲击步枪.</Make_Z_Rifle04A.description>
+  <!-- EN: Making Z_冲击步枪. -->
+  <Make_Z_Rifle04A.jobString>Making Z_冲击步枪.</Make_Z_Rifle04A.jobString>
+  <!-- EN: make Z_蓄能炮 -->
+  <Make_Z_Rifle05A.label>make Z_蓄能炮</Make_Z_Rifle05A.label>
+  <!-- EN: Make a Z_蓄能炮. -->
+  <Make_Z_Rifle05A.description>Make a Z_蓄能炮.</Make_Z_Rifle05A.description>
+  <!-- EN: Making Z_蓄能炮. -->
+  <Make_Z_Rifle05A.jobString>Making Z_蓄能炮.</Make_Z_Rifle05A.jobString>
+  <!-- EN: make Z_电荷步枪EXII -->
+  <Make_Z_Rifle06A.label>make Z_电荷步枪EXII</Make_Z_Rifle06A.label>
+  <!-- EN: Make a Z_电荷步枪EXII. -->
+  <Make_Z_Rifle06A.description>Make a Z_电荷步枪EXII.</Make_Z_Rifle06A.description>
+  <!-- EN: Making Z_电荷步枪EXII. -->
+  <Make_Z_Rifle06A.jobString>Making Z_电荷步枪EXII.</Make_Z_Rifle06A.jobString>
+</LanguageData>

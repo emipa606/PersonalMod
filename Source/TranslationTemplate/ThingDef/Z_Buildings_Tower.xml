@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Z_磁轨炮集束 -->
+  <Bullet_Z_TurretgunA.label>Z_磁轨炮集束</Bullet_Z_TurretgunA.label>
+  <!-- EN: Z_微风磁轨炮集束 -->
+  <Bullet_Z_TurretgunB.label>Z_微风磁轨炮集束</Bullet_Z_TurretgunB.label>
+  <!-- EN: Z_微风_小型蜂巢式磁轨炮台 -->
+  <Z_TowerA.label>Z_微风_小型蜂巢式磁轨炮台</Z_TowerA.label>
+  <!-- EN: Z_防御型平台，顶级射速。\n低伤害但同样致命\nlevel:A. -->
+  <Z_TowerA.description>Z_防御型平台，顶级射速。
+低伤害但同样致命
+level:A.</Z_TowerA.description>
+  <!-- EN: Z_四联链式磁轨炮 -->
+  <Z_TowerBase1A.label>Z_四联链式磁轨炮</Z_TowerBase1A.label>
+  <!-- EN: Z_四联链式磁轨炮. -->
+  <Z_TowerBase1A.description>Z_四联链式磁轨炮.</Z_TowerBase1A.description>
+  <!-- EN: Z_四联链式磁轨炮 -->
+  <Z_TowerBase1A.verbs.Verb_Shoot.label>Z_四联链式磁轨炮</Z_TowerBase1A.verbs.Verb_Shoot.label>
+  <!-- EN: Z_小型四联链式磁轨炮 -->
+  <Z_TowerBase2A.label>Z_小型四联链式磁轨炮</Z_TowerBase2A.label>
+  <!-- EN: Z_小型四联链式磁轨炮. -->
+  <Z_TowerBase2A.description>Z_小型四联链式磁轨炮.</Z_TowerBase2A.description>
+  <!-- EN: Z_小型四联链式磁轨炮 -->
+  <Z_TowerBase2A.verbs.Verb_Shoot.label>Z_小型四联链式磁轨炮</Z_TowerBase2A.verbs.Verb_Shoot.label>
+  <!-- EN: Z_暴风_蜂巢式磁轨炮台 -->
+  <Z_TowerSSS.label>Z_暴风_蜂巢式磁轨炮台</Z_TowerSSS.label>
+  <!-- EN: Z_送眼前的一切敌人去见上帝。精确且致命\nlevel:SSS. -->
+  <Z_TowerSSS.description>Z_送眼前的一切敌人去见上帝。精确且致命
+level:SSS.</Z_TowerSSS.description>
+</LanguageData>

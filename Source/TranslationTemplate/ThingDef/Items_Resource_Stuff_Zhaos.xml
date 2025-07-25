@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Z_镜面合金 -->
+  <Z_StanStoneA.label>Z_镜面合金</Z_StanStoneA.label>
+  <!-- EN: 强相互作用力产生的金属材料. -->
+  <Z_StanStoneA.description>强相互作用力产生的金属材料.</Z_StanStoneA.description>
+  <Z_StanStoneA.stuffProps.stuffAdjective />
+  <!-- EN: Z_镜面织物 -->
+  <ZhiWu_Zhaos.label>Z_镜面织物</ZhiWu_Zhaos.label>
+  <!-- EN: 强相互作用力产生的织物材料. -->
+  <ZhiWu_Zhaos.description>强相互作用力产生的织物材料.</ZhiWu_Zhaos.description>
+  <ZhiWu_Zhaos.stuffProps.stuffAdjective />
+</LanguageData>

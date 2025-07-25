@@ -20,7 +20,7 @@ internal class Gizmo_Vanya_EnergyShieldStatus : Gizmo
     }
 
 
-    public virtual float Width => 140f;
+    protected virtual float Width => 140f;
 
     public virtual GizmoResult GizmoOnGUI(Vector2 topLeft)
     {

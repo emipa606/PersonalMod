@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Z_弧光灯 -->
+  <Z_ArcLamp.label>Z_弧光灯</Z_ArcLamp.label>
+  <!-- EN: 私用版，通过特制的装置吸收周围环境的热能来发光，可以让植物生长。. -->
+  <Z_ArcLamp.description>私用版，通过特制的装置吸收周围环境的热能来发光，可以让植物生长。.</Z_ArcLamp.description>
+  <!-- EN: Z_复合门 -->
+  <Zhaos_CompDoor.label>Z_复合门</Zhaos_CompDoor.label>
+  <!-- EN: A door made by quantum alloy, with multithread structure it can significantly reduce damage from impact power and energy pulse.. -->
+  <Zhaos_CompDoor.description>A door made by quantum alloy, with multithread structure it can significantly reduce damage from impact power and energy pulse..</Zhaos_CompDoor.description>
+  <!-- EN: Z_复合墙 -->
+  <Zhaos_CompWall.label>Z_复合墙</Zhaos_CompWall.label>
+  <!-- EN: A wall made by quantum alloy, with multithread structure it can significantly reduce damage from impact power and energy pulse.. -->
+  <Zhaos_CompWall.description>A wall made by quantum alloy, with multithread structure it can significantly reduce damage from impact power and energy pulse..</Zhaos_CompWall.description>
+</LanguageData>
